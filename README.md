@@ -6,7 +6,8 @@ Utilising [https://github.com/PMET-public/module-data-install](https://github.co
 
 * Take a db dump
 * Install module
-    -  composer config repositories.installer git https://github.com/PMET-public/module-data-install.git;
+    - Run `composer config repositories.installer git https://github.com/jasonfordAdobe/luma-europe-data-install.git;composer require jasfordadobe/luma-europe-data-install;`
+    - Run `bin/magento se:up`
 
 ## Parts
 
