@@ -1,0 +1,16 @@
+{
+    "name": "jasford/luma-europe-data-install",
+    "type": "magento2-module",
+    "version" : "0.0.1",
+    "require": {
+        "firegento/fastsimpleimport": "*",
+        "magentoese/module-data-install": "*"
+    },
+    "license": [
+        "GNU General Public License (GPL)"
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": { "Jason\\LumaEurope\\": "" }
+    }
+}
