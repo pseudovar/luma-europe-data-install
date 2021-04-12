@@ -65,7 +65,6 @@
                         "luma_be_fr": "BE",
                         "luma_fr_fr": "FR",
                         "luma_de_de": "DE",
-                        "luma_nl_nl": "NL",
                         "luma_es_es": "ES",
                         "luma_se_sv": "SE"
                     }
@@ -73,13 +72,12 @@
             },
             "locale": {
                 "code": {
+                    "default": "en_GB",
                     "store_view": {
-                        "luma_en_gb": "en_GB",
                         "luma_be_nl": "nl_NL",
                         "luma_be_fr": "fr_FR",
                         "luma_fr_fr": "fr_FR",
                         "luma_de_de": "de_DE",
-                        "luma_nl_nl": "nl_NL",
                         "luma_es_es": "es_ES",
                         "luma_se_sv": "sv_SE"
                     }
@@ -176,7 +174,6 @@
                         "luma_be_fr": "BE",
                         "luma_fr_fr": "FR",
                         "luma_de_de": "DE",
-                        "luma_nl_nl": "NL",
                         "luma_es_es": "ES",
                         "luma_se_sv": "SE"
                     }

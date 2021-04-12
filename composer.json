@@ -4,7 +4,8 @@
     "version" : "0.0.2",
     "require": {
         "firegento/fastsimpleimport": "*",
-        "magentoese/module-data-install": "*"
+        "magentoese/module-data-install": "*",
+        "jasfordadobe/luma-europe-nl-nl-data-install": "*"
     },
     "license": [
         "GNU General Public License (GPL)"

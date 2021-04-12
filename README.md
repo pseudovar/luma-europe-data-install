@@ -13,19 +13,37 @@ Utilising [https://github.com/PMET-public/module-data-install](https://github.co
 
 ### To Do
 
-* Pages
-* Product Attribute Label Translations
-* Product Attribute Option Translations
-* Category Import
-* Category Translations
-* Website URLs
+* [ ] Pages
+* [ ] Product Attribute Label Translations
+* [ ] Product Attribute Option Translations
+* [ ] New Products
+    - [ ] Energy Bar
+    - [ ] Water Bottle
+* [ ] Category Import
+* [ ] Category Translations
+* [ ] Website URLs
+* [ ] Split into different repos for each language
+    - [ ] luma_be_nl
+    - [ ] luma_be_fr
+    - [ ] luma_fr_fr
+    - [ ] luma_de_de
+    - [X] luma_nl_nl
+    - [ ] luma_es_es
+    - [ ] luma_se_sv
+* [ ] Make composer require for each sub-repo
+    - [ ] luma_be_nl
+    - [ ] luma_be_fr
+    - [ ] luma_fr_fr
+    - [ ] luma_de_de
+    - [X] luma_nl_nl
+    - [ ] luma_es_es
+    - [ ] luma_se_sv
 
 ### Done
 
-* Configuration
-* Products (export)
-    - Translations
-    - New 3D product
-    - New Images
-* Websites/Stores
-    - 
+* [X] Configuration
+* [X] Products (export)
+    - [X] Translations
+    - [X] New 3D product
+    - [X] New Images
+* [X] Websites/Stores
