@@ -1,0 +1,124 @@
+{
+    "configuration": {
+        "admin": {
+            "security": {
+                "admin_account_sharing": "1"
+            }
+        },
+        "amasty_base": {
+            "menu": {
+                "enable": "0"
+            },
+            "notifications": {
+                "ads_enable": "0"
+            }
+        },
+        "catalog": {
+            "frontend": {
+                "grid_per_page": "48",
+                "grid_per_page_values": "48,96,192",
+                "list_allow_all": "1",
+                "list_per_page": "50",
+                "list_per_page_values": "50,100,200"
+            }
+        },
+        "currency": {
+            "options": {
+                "allow": "GBP",
+                "base": "GBP",
+                "default": "GBP"
+            }
+        },
+        "design": {
+            "head": {
+                "title_suffix": " | Luma"
+            }
+        },
+        "general": {
+            "country": {
+                "allow": "BE,FR,DE,NL,ES,GB",
+                "default": "GB"
+            },
+            "locale": {
+                "timezone": "Europe/London",
+                "weight_unit": "kgs"
+            },
+            "store_information": {
+                "name": "Luma, Inc.",
+                "phone": "(+44) 20 7946 0982",
+                "hours": "9AM - 5PM",
+                "country_id": "GB",
+                "region_id": "",
+                "postcode": "W1C 2DW",
+                "city": "London",
+                "street_line1": "285 Oxford Street",
+                "merchant_vat_number": "GB 980780684"
+            }
+        },
+        "imi_store_switch": {
+            "general": {
+                "enable": "1",
+                "include_in_switch": "1"
+            }
+        },
+        "mageplaza": {
+            "general": {
+                "menu": "0",
+                "notice_enable": "0"
+            }
+        },
+        "payment": {
+            "paypal_express": {
+                "active": "0",
+                "allow_ba_signup": "never",
+                "allowspecific": "0",
+                "visible_on_cart": "0",
+                "visible_on_product": "0"
+            }
+        },
+        "shipping": {
+            "origin": {
+                "city": "London",
+                "country_id": "GB",
+                "postcode": "W1C 2DW",
+                "street_line1": "285 Oxford Street, London"
+            }
+        },
+        "tax": {
+            "calculation": {
+                "based_on": "shipping",
+                "cross_border_trade_enabled": "1",
+                "price_includes_tax": "1",
+                "shipping_includes_tax": "1"
+            },
+            "cart_display": {
+                "full_summary": "0",
+                "gift_wrapping": "2",
+                "grandtotal": "1",
+                "price": "2",
+                "printed_card": "2",
+                "shipping": "2",
+                "sub_total": "2"
+            },
+            "classes": {
+                "default_customer_tax_class": "10",
+                "default_product_tax_class": "13",
+                "wrapping_tax_class": "0"
+            },
+            "defaults": {
+                "country": "GB"
+            },
+            "display": {
+                "shipping": "2",
+                "type": "2"
+            },
+            "sales_display": {
+                "gift_wrapping": "2",
+                "price": "2",
+                "printed_card": "2",
+                "shipping": "2",
+                "zero_tax": "1"
+            }
+        }
+    }
+}

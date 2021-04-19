@@ -1,0 +1,5 @@
+frontend_label,frontend_input,is_required,is_filterable,option,attribute_code,position
+Flavour,select,0,1,"Forest Fruit
+Lemon & Lime
+Orange
+Tropical",flavour,500
