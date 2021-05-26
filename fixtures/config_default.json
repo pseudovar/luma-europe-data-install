@@ -29,6 +29,11 @@
                 "default": "GBP"
             }
         },
+        "customer": {
+            "account_share": {
+                "scope": "0"
+            }
+        },
         "design": {
             "head": {
                 "title_suffix": " | Luma"
