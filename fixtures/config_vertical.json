@@ -1,56 +1,10 @@
 {
     "configuration": {
-        "currency": {
-            "options": {
-                "allow": {
-                    "website": {
-                        "luma_euro": "EUR"
-                    },
-                    "store_view": {
-                        "luma_se_sv": "EUR,SEK"
-                    }
-                },
-                "base": {
-                    "website": {
-                        "luma_euro": "EUR"
-                    }
-                },
-                "default": {
-                    "website": {
-                        "luma_euro": "EUR"
-                    },
-                    "store_view": {
-                        "luma_se_sv": "SEK"
-                    }
-                }
-            }
-        },
         "general": {
-            "country": {
-                "default": {
-                    "store_view": {
-                        "luma_be_nl": "BE",
-                        "luma_be_fr": "BE",
-                        "luma_fr_fr": "FR",
-                        "luma_de_de": "DE",
-                        "luma_es_es": "ES",
-                        "luma_se_sv": "SE"
-                    }
-                }
-            },
             "locale": {
                 "code": {
                     "website": {
-                        "luma_gbp": "en_GB",
-                        "luma_euro": "en_GB"
-                    },
-                    "store_view": {
-                        "luma_be_nl": "nl_NL",
-                        "luma_be_fr": "fr_FR",
-                        "luma_fr_fr": "fr_FR",
-                        "luma_de_de": "de_DE",
-                        "luma_es_es": "es_ES",
-                        "luma_se_sv": "sv_SE"
+                        "luma_gbp": "en_GB"
                     }
                 }
             }
@@ -60,44 +14,6 @@
                 "include_in_switch": {
                     "website": {
                         "base": "0"
-                    }
-                }
-            }
-        },
-        "shipping": {
-            "origin": {
-                "city": {
-                    "website": {
-                        "luma_euro": "Amsterdam"
-                    }
-                },
-                "country_id": {
-                    "website": {
-                        "luma_euro": "NL"
-                    }
-                },
-                "postcode": {
-                    "website": {
-                        "luma_euro": "1101BE"
-                    }
-                },
-                "street_line1": {
-                    "website": {
-                        "luma_euro": "Hoogoorddreef 54-a"
-                    }
-                }
-            }
-        },
-        "tax": {
-            "defaults": {
-                "country": {
-                    "store_view": {
-                        "luma_be_nl": "BE",
-                        "luma_be_fr": "BE",
-                        "luma_fr_fr": "FR",
-                        "luma_de_de": "DE",
-                        "luma_es_es": "ES",
-                        "luma_se_sv": "SE"
                     }
                 }
             }

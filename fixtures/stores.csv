@@ -4,8 +4,4 @@ base,Luma B2C Website,1000,,luma_b2c_store,Luma B2C Store,Luma Catalog,Y,default
 base,Luma B2C Website,1000,,luma_b2c_store,Luma B2C Store,Luma Catalog,,luma_de,Deutsch,,200,N,Magento/luma
 base,Luma B2C Website,1000,,venia_store,Venia Store,Venia Catalog,,venia_us,US English,,100,N,Magentoese/venia
 luma_gbp,Luma GBP,100,Y,luma_gb,Luma UK Store,Luma Europe Catalogue,Y,luma_gb_en,UK English,Y,100,Y,Magento/luma
-luma_euro,Luma EURO,200,,luma_be,Luma Belgium Store,Luma Europe Catalogue,Y,luma_be_nl,Nederlands,Y,100,Y,Magento/luma
-luma_euro,Luma EURO,200,,luma_be,Luma Belgium Store,Luma Europe Catalogue,Y,luma_be_fr,Français,,200,Y,Magento/luma
-luma_euro,Luma EURO,200,,luma_fr,Luma France Store,Luma Europe Catalogue,,luma_fr_fr,Français,Y,100,Y,Magento/luma
-luma_euro,Luma EURO,200,,luma_de,Luma Germany Store,Luma Europe Catalogue,,luma_de_de,Deutsch,Y,100,Y,Magento/luma
-luma_euro,Luma EURO,200,,luma_es,Luma Spain Store,Luma Europe Catalogue,,luma_es_es,Español,Y,100,Y,Magento/luma
+luma_euro,Luma EURO,200,,luma_nl,Luma Netherlands Store,Luma Europe Catalogue,,luma_nl_nl,Nederlands,Y,100,N,Magento/luma

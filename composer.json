@@ -1,7 +1,7 @@
 {
     "name": "jasfordadobe/luma-europe-data-install",
     "type": "magento2-module",
-    "version" : "0.0.5",
+    "version" : "0.0.6",
     "require": {
         "firegento/fastsimpleimport": "*",
         "magentoese/module-data-install": "dev-beta-b2c",
