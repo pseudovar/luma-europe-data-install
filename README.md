@@ -44,6 +44,7 @@ Utilising [https://github.com/PMET-public/module-data-install](https://github.co
 * [ ] Currency Configuration
     - [ ] Import conversion of Krona
 * [ ] Make composer require for each sub-repo
+    - [ ] How do we provide options for people to install just the languages they want?
     - [ ] luma_be_nl
     - [ ] luma_be_fr
     - [ ] luma_fr_fr
@@ -54,8 +55,22 @@ Utilising [https://github.com/PMET-public/module-data-install](https://github.co
 
 ### Done
 
+* [X] Create install script for the Chrome extension
+    - [X] Remove MagentoEse store switcher
+    - [X] Add custom IMI store switcher
+    - [X] Add custom PB modules
+    - [X] Add Commerce Improvements module
 * [X] Configuration
+    - [X] Global
+    - [X] luma_be_nl
+    - [X] luma_be_fr
+    - [X] luma_fr_fr
+    - [X] luma_de_de
+    - [X] luma_nl_nl
+    - [X] luma_es_es
+    - [X] luma_se_sv
 * [X] Split into different repos for each language
+    - [X] Global
     - [X] luma_be_nl
     - [X] luma_be_fr
     - [X] luma_fr_fr
